@@ -1,8 +1,8 @@
 [
   {
-    "nombre": "Salinas a PAM NLD",
-    "categoria": "Salinas a Cliente",
-    "puntos": [
+    "name": "Salinas a PAM NLD",
+    "category": "Salinas a Cliente",
+    "waypoints": [
       {
         "lat": 25.870748376910793,
         "lng": -100.25056578268057
@@ -34,9 +34,9 @@
     ]
   },
   {
-    "nombre": "Salinas a Patio Viejo NLD",
-    "categoria": "Patio a Patio DX",
-    "puntos": [
+    "name": "Salinas a Patio Viejo NLD",
+    "category": "Patio a Patio DX",
+    "waypoints": [
       {
         "lat": 25.870748376910793,
         "lng": -100.25056578268057
@@ -64,9 +64,9 @@
     ]
   },
   {
-    "nombre": "Salinas a Freightsol",
-    "categoria": "Salinas a Cliente",
-    "puntos": [
+    "name": "Salinas a Freightsol",
+    "category": "Salinas a Cliente",
+    "waypoints": [
       {
         "lat": 25.870748376910793,
         "lng": -100.25056578268057
@@ -106,9 +106,9 @@
     ]
   },
   {
-    "nombre": "Salinas a Ryder",
-    "categoria": "Salinas a Cliente",
-    "puntos": [
+    "name": "Salinas a Ryder",
+    "category": "Salinas a Cliente",
+    "waypoints": [
       {
         "lat": 25.870748376910793,
         "lng": -100.25056578268057
@@ -144,9 +144,9 @@
     ]
   },
   {
-    "nombre": "Salinas KIA",
-    "categoria": "Salinas a Cliente",
-    "puntos": [
+    "name": "Salinas KIA",
+    "category": "Salinas a Cliente",
+    "waypoints": [
       {
         "lat": 25.87077516415945,
         "lng": -100.25058715931365
@@ -186,9 +186,9 @@
     ]
   },
   {
-    "nombre": "Salinas a  Arteaga",
-    "categoria": "Patio a Patio DX",
-    "puntos": [
+    "name": "Salinas a  Arteaga",
+    "category": "Patio a Patio DX",
+    "waypoints": [
       {
         "lat": 25.870704592250405,
         "lng": -100.25056031915007
@@ -212,9 +212,9 @@
     ]
   },
   {
-    "nombre": "Salinas a San Luis",
-    "categoria": "Patio a Patio DX",
-    "puntos": [
+    "name": "Salinas a San Luis",
+    "category": "Patio a Patio DX",
+    "waypoints": [
       {
         "lat": 25.87078916617618,
         "lng": -100.25059280386574
@@ -278,9 +278,9 @@
     ]
   },
   {
-    "nombre": "San luis a Silao",
-    "categoria": "Patio a Patio DX",
-    "puntos": [
+    "name": "San luis a Silao",
+    "category": "Patio a Patio DX",
+    "waypoints": [
       {
         "lat": 22.00385667293219,
         "lng": -100.83288431770595
@@ -324,9 +324,9 @@
     ]
   },
   {
-    "nombre": "GM Toluca",
-    "categoria": "Queretaro",
-    "puntos": [
+    "name": "GM Toluca",
+    "category": "Queretaro",
+    "waypoints": [
       {
         "lat": 20.822190797925014,
         "lng": -100.44721336653085
@@ -402,9 +402,9 @@
     ]
   },
   {
-    "nombre": "Queretaro - Puebla",
-    "categoria": "Queretaro",
-    "puntos": [
+    "name": "Queretaro - Puebla",
+    "category": "Queretaro",
+    "waypoints": [
       {
         "lat": 20.82201241373114,
         "lng": -100.44733132446025
@@ -464,9 +464,9 @@
     ]
   },
   {
-    "nombre": "casa a instituto",
-    "categoria": "Trabajo",
-    "puntos": [
+    "name": "casa a instituto",
+    "category": "Trabajo",
+    "waypoints": [
       {
         "lat": 25.67638936523946,
         "lng": -100.24737580885883
